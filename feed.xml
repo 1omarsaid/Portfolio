@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>portfolio</title>
+    <link href="https://1omarsaid.github.io/Portfolio/feed.xml" rel="self" />
+    <link href="https://1omarsaid.github.io/Portfolio" />
+    <updated>2019-12-29T18:56:25-05:00</updated>
+    <author>
+        <name>Omar</name>
+    </author>
+    <id>https://1omarsaid.github.io/Portfolio</id>
+
+    <entry>
+        <title>This is my first post</title>
+        <author>
+            <name>Omar</name>
+        </author>
+        <link href="https://1omarsaid.github.io/Portfolio/this-is-my-first-post.html"/>
+        <id>https://1omarsaid.github.io/Portfolio/this-is-my-first-post.html</id>
+
+        <updated>2019-12-29T18:50:19-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

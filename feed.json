@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "portfolio",
+    "description": "",
+    "home_page_url": "https://1omarsaid.github.io/Portfolio",
+    "feed_url": "https://1omarsaid.github.io/Portfolio/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Omar"
+    },
+    "items": [
+        {
+            "id": "https://1omarsaid.github.io/Portfolio/this-is-my-first-post.html",
+            "url": "https://1omarsaid.github.io/Portfolio/this-is-my-first-post.html",
+            "title": "This is my first post",
+            "author": {
+                "name": "Omar"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-12-29T18:50:19-05:00",
+            "date_modified": "2019-12-29T18:50:19-05:00"
+        }
+    ]
+}
